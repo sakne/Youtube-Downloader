@@ -15,4 +15,4 @@ To open the file, open the terminal in file location and type;
 python main.py
 ```
 
-![Usage]([https://imgur.com/a/ByR9ZBy](https://i.imgur.com/J8fGXKH.mp4))
+![Usage](https://s9.gifyu.com/images/ezgif.com-gif-maker555d40bb00d442a4.gif)
