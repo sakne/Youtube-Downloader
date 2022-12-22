@@ -14,3 +14,5 @@ To open the file, open the terminal in file location and type;
 ```
 python main.py
 ```
+
+![Usage](https://imgur.com/a/ByR9ZBy)
